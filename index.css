@@ -122,10 +122,11 @@ footer{
 
 .logo{
 
-	width: 35%;
+	width: 45%;
 	height: auto;
 	display: block;
 	margin: 0 auto;
+	margin-top: 200px;
 		
 }
 .text1{
