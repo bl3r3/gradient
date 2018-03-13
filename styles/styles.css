@@ -36,17 +36,14 @@ footer{
 	/*background-attachment: fixed;*/
 	background-size: cover;
 	height: 70vh;
-	width: 100%vh;
-	margin: 0;
-	border: 0;
-	padding: 0;
+	width: 100%;
+	
 
 }
 
 .centrar-logo{
-	display: block;
-	text-align: center;
-	padding-top: 100px;
+	display: inline-block;
+	vertical-align: middle;
 
 }
 
@@ -173,7 +170,11 @@ footer {
 
 .header{
 	max-width: 100%;
-	height: 60vh;
+	height: 70vh;
+}
+
+.logo{
+
 }
 
 
