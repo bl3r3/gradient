@@ -51,11 +51,10 @@ función show_error ($myError)
 <body>
 
 <p> Correct the following error: </p>
-<strong> <? php echo $myError; ?> </strong>
+<strong> <?php echo $myError; ?> </strong>
 <p> Presiona el botón Atrás e intenta nuevamente </p>
 
 </body>
 </html>
 exit();
 }
-?>
